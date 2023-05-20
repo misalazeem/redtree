@@ -25,15 +25,15 @@ function App() {
         <>
             {loader && <Preloader />}
             <Router><Routes>
-                <Route path="/" element={<HomeTwo />} />
-                <Route path="/about" element={<AboutPage />} />
-                <Route path="/services" element={<ServicesPage />} />
-                <Route path="/services-details" element={<ServicesDetails />} />
-                <Route path="/portfolio" element={<PortfolioTwo />} />
-                <Route path="/portfolio-details" element={<PortfolioDetailsTwo />} />
-                <Route path="/news" element={<NewsStandard />} />
-                <Route path="/news-details" element={<NewsDetails />} />
-                <Route path="/contact" element={<Contact />} />
+                <Route path="/redtree" element={<HomeTwo />} />
+                <Route path="/redtree/about" element={<AboutPage />} />
+                <Route path="/redtree/services" element={<ServicesPage />} />
+                <Route path="/redtree/services-details" element={<ServicesDetails />} />
+                <Route path="/redtree/portfolio" element={<PortfolioTwo />} />
+                <Route path="/redtree/portfolio-details" element={<PortfolioDetailsTwo />} />
+                <Route path="/redtree/news" element={<NewsStandard />} />
+                <Route path="/redtree/news-details" element={<NewsDetails />} />
+                <Route path="/redtree/contact" element={<Contact />} />
                 <Route path="*" element={<Error />} />
             </Routes></Router>
             <ScrollTop />

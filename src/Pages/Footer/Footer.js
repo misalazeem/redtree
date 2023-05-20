@@ -25,8 +25,8 @@ const Footer = () => {
                                     <h4 className="mb-40">Opportunities</h4>
                                     <div className="footer__area-widget-menu">
                                         <ul>
-                                            <li><Link to="/portfolio-details">Mall of Garden City</Link></li>
-                                            <li><Link to="/portfolio-details">Dot by Al-Jamal</Link></li>
+                                            <li><Link to="/redtree/portfolio-details">Mall of Garden City</Link></li>
+                                            <li><Link to="/redtree/portfolio-details">Dot by Al-Jamal</Link></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -36,11 +36,11 @@ const Footer = () => {
                                     <h4 className="mb-40">Link</h4>
                                     <div className="footer__area-widget-menu">
                                         <ul>
-                                            <li><Link to="/">Home</Link></li>
-                                            <li><Link to="/services">Services</Link></li>
-                                            <li><Link to="/news">News</Link></li>
-                                            <li><Link to="/portfolio">Portfolio</Link></li>
-                                            <li><Link to="/contact">Contact</Link></li>
+                                            <li><Link to="/redtree">Home</Link></li>
+                                            <li><Link to="/redtree/services">Services</Link></li>
+                                            <li><Link to="/redtree/news">News</Link></li>
+                                            <li><Link to="/redtree/portfolio">Portfolio</Link></li>
+                                            <li><Link to="/redtree/contact">Contact</Link></li>
                                         </ul>
                                     </div>
                                 </div>

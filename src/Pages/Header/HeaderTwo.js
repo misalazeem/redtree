@@ -21,16 +21,16 @@ const HeaderTwo = ({variant}) => {
             <div className="container">
                 <div className="header__area-box">
                     <div className="header__area-box-logo">
-                        <Link to='/'><img src="assets/img/logo.png" alt="" /></Link>
+                        <Link to='/redtree'><img src="assets/img/logo.png" alt="" /></Link>
                     </div>
                     <div className="header__area-box-menu">
                         <div className="header__area-box-main-menu">
                             <ul className="mobile__menu" >
                                 <li className="menu-item-has-children">
-                                    <Link to="/">Home</Link>
+                                    <Link to="/redtree">Home</Link>
                                 </li>
                                 <li className="menu-item-has-children">
-                                    <Link to="">About Us</Link>
+                                    <Link to="/redtree/about">About Us</Link>
                                     <DropDown>
                                         <ul className="sub-menu">
                                         <Page />
@@ -38,23 +38,23 @@ const HeaderTwo = ({variant}) => {
                                     </DropDown>
                                 </li>
                                 <li className="menu-item-has-children">
-                                    <Link to="/portfolio">Portfolio</Link>
+                                    <Link to="/redtree/portfolio">Portfolio</Link>
                                 </li>
                                 <li className="menu-item-has-children">
-                                    <Link to="/news">News</Link>
+                                    <Link to="/redtree/news">News</Link>
                                 </li>
-                                <li><Link to="/contact">Contact</Link></li>
+                                <li><Link to="/redtree/contact">Contact</Link></li>
                             </ul>
                             <span className={mobileToggle ? "mobile-menu mobile-menu-active" : "mobile-menu"} onClick={() => setMobileToggle(!mobileToggle)}>
                                 <span>                                    
                                 {mobileToggle && (<div className="mobilemenu">
                                     <div className="mobilemenu-container">
-                                    <li><Link to="/">Home</Link></li>
-                                    <li><Link to="/portfolio">Portfolio</Link></li>
-                                    <li><Link to="/news">News</Link></li>
-                                    <li><Link to="/about">About</Link></li>
-                                    <li><Link to="/services">Services</Link></li>
-                                    <li><Link to="/contact">Contact</Link></li>
+                                    <li><Link to="/redtree">Home</Link></li>
+                                    <li><Link to="/redtree/portfolio">Portfolio</Link></li>
+                                    <li><Link to="/redtree/news">News</Link></li>
+                                    <li><Link to="/redtree/about">About</Link></li>
+                                    <li><Link to="/redtree/services">Services</Link></li>
+                                    <li><Link to="/redtree/contact">Contact</Link></li>
                                     </div>
                                 </div>
                                 )}                                       

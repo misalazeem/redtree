@@ -33,7 +33,7 @@ const Features = () => {
                         >
                             <h4>{item.title}</h4>
                             <p>{item.description}</p>
-                            <Link className="simple-btn" to="/services-details">Discover More<i className="far fa-long-arrow-right"></i></Link>
+                            <Link className="simple-btn" to="/redtree/services-details">Discover More<i className="far fa-long-arrow-right"></i></Link>
                             <div className="features__area-two-item-user"> <img src="assets/img/user.png" alt="" /> </div>
                         </div>
                     </div>

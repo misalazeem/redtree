@@ -10,8 +10,8 @@ export const Home = () => (
 );
 export const Page = () => (
     <Fragment>
-    <li><Link to="/about">About</Link></li>
-    <li><Link to="/services">Services</Link></li>
+    <li><Link to="/redtree/about">About</Link></li>
+    <li><Link to="/redtree/services">Services</Link></li>
     </Fragment>
 );
 export const Portfolio = () => (

@@ -9,7 +9,7 @@ const Blog = () => {
         date: '07 Feb, 2023',
         image: 'assets/img/news1.png',
         comment: '4 Comment',
-        href: '/news-details',
+        href: '/redtree/news-details',
       },
       {
         id: 2,
@@ -17,7 +17,7 @@ const Blog = () => {
         date: '05 Feb, 2023',
         image: 'assets/img/news3.png',
         comment: '2 Comment',
-        href: '/news-details',
+        href: '/redtree/news-details',
       },
       {
         id: 3,
@@ -25,7 +25,7 @@ const Blog = () => {
         date: '04 Feb, 2023',
         comment: '3 Comment',
         image: 'assets/img/news2.png',
-        href: '/news-details',
+        href: '/redtree/news-details',
       }
     ];
     return (

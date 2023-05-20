@@ -21,7 +21,7 @@ const Portfolio = () => {
                                 <div className="portfolio__area-item-image-content">
                                     <div className="portfolio__area-item-image-content-text"> 
                                         <span>Mall of Garden City</span>
-                                        <h4><Link to="/portfolio-details">More Details</Link></h4> 
+                                        <h4><Link to="/redtree/portfolio-details">More Details</Link></h4> 
                                     </div>
                                 </div>
                             </div>
@@ -34,7 +34,7 @@ const Portfolio = () => {
                                 <div className="portfolio__area-item-image-content">
                                     <div className="portfolio__area-item-image-content-text"> 
                                         <span>Mall of Garden City</span>
-                                        <h4><Link to="/portfolio-details">More Details</Link></h4>
+                                        <h4><Link to="/redtree/portfolio-details">More Details</Link></h4>
                                     </div>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@ const Portfolio = () => {
                                 <div className="portfolio__area-item-image-content">
                                     <div className="portfolio__area-item-image-content-text"> 
                                         <span>Dot By Al-Jamal</span>
-                                        <h4><Link to="/portfolio-details">More Details</Link></h4> 
+                                        <h4><Link to="/redtree/portfolio-details">More Details</Link></h4> 
                                     </div>
                                 </div>
                             </div>

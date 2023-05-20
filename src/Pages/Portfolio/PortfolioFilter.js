@@ -57,7 +57,7 @@ const ProjectStyleTwoItem = ({ image }) => {
                     <img className="img__full" src={image} alt="" />
 					<div className="portfolio__area-two-item-content"> 
                         <span>Photography</span>
-						<h4><Link to="/portfolio-details">Photography</Link></h4> 
+						<h4><Link to="/redtree/portfolio-details">Photography</Link></h4> 
                     </div>
 				</div>
             </div>

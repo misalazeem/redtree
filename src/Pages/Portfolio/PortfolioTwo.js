@@ -17,7 +17,7 @@ const PortfolioTwo = () => {
                             <img className="img__full" src="assets/img/mogc.png" alt="Mall of Garden City" />
                             <div className="portfolio__column-two-item-content">
                                 <span>Mall of Garden City</span>
-                                <h4><Link to="/portfolio-details">More Details</Link></h4> 
+                                <h4><Link to="/redtree/portfolio-details">More Details</Link></h4> 
                             </div>
                         </div>
                     </div>
@@ -26,7 +26,7 @@ const PortfolioTwo = () => {
                             <img className="img__full" src="assets/img/Dot.png" alt="Dot by Al-Jamal" />
                             <div className="portfolio__column-two-item-content">
                                 <span>Dot by Al-Jamal</span>
-                                <h4><Link to="/portfolio-details">More Details</Link></h4> 
+                                <h4><Link to="/redtree/portfolio-details">More Details</Link></h4> 
                             </div>
                         </div>
                     </div>

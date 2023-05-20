@@ -12,7 +12,7 @@ const Error = () => {
                         <div className="error__page-content">
                             <h1>404</h1>
                             <p>The page you are looking for does not exist!</p>
-                            <Link className="theme-btn-1" to="/">go Back to Home page<i className="fal fa-long-arrow-right"></i></Link>
+                            <Link className="theme-btn-1" to="/redtree">go Back to Home page<i className="fal fa-long-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
