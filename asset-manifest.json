@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/redtree/static/css/main.1b68cf4f.css",
-    "main.js": "/redtree/static/js/main.a35d9a00.js",
+    "main.js": "/redtree/static/js/main.9965a9a3.js",
     "static/js/787.6cd3aef0.chunk.js": "/redtree/static/js/787.6cd3aef0.chunk.js",
     "index.html": "/redtree/index.html",
     "main.1b68cf4f.css.map": "/redtree/static/css/main.1b68cf4f.css.map",
-    "main.a35d9a00.js.map": "/redtree/static/js/main.a35d9a00.js.map",
+    "main.9965a9a3.js.map": "/redtree/static/js/main.9965a9a3.js.map",
     "787.6cd3aef0.chunk.js.map": "/redtree/static/js/787.6cd3aef0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b68cf4f.css",
-    "static/js/main.a35d9a00.js"
+    "static/js/main.9965a9a3.js"
   ]
 }
