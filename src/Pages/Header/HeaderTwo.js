@@ -49,7 +49,7 @@ const HeaderTwo = ({variant}) => {
                                 <span>                                    
                                 {mobileToggle && (<div className="mobilemenu">
                                     <div className="mobilemenu-container">
-                                    <li><Link to="/redtree">Home</Link></li>
+                                    <li><Link to="/redtree/">Home</Link></li>
                                     <li><Link to="/redtree/portfolio">Portfolio</Link></li>
                                     <li><Link to="/redtree/news">News</Link></li>
                                     <li><Link to="/redtree/about">About</Link></li>
