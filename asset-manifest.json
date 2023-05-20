@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b68cf4f.css",
-    "main.js": "/static/js/main.c8967e0f.js",
-    "static/js/787.6cd3aef0.chunk.js": "/static/js/787.6cd3aef0.chunk.js",
-    "index.html": "/index.html",
-    "main.1b68cf4f.css.map": "/static/css/main.1b68cf4f.css.map",
-    "main.c8967e0f.js.map": "/static/js/main.c8967e0f.js.map",
-    "787.6cd3aef0.chunk.js.map": "/static/js/787.6cd3aef0.chunk.js.map"
+    "main.css": "/redtree/static/css/main.1b68cf4f.css",
+    "main.js": "/redtree/static/js/main.cfa4fe4d.js",
+    "static/js/787.6cd3aef0.chunk.js": "/redtree/static/js/787.6cd3aef0.chunk.js",
+    "index.html": "/redtree/index.html",
+    "main.1b68cf4f.css.map": "/redtree/static/css/main.1b68cf4f.css.map",
+    "main.cfa4fe4d.js.map": "/redtree/static/js/main.cfa4fe4d.js.map",
+    "787.6cd3aef0.chunk.js.map": "/redtree/static/js/787.6cd3aef0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b68cf4f.css",
-    "static/js/main.c8967e0f.js"
+    "static/js/main.cfa4fe4d.js"
   ]
 }
