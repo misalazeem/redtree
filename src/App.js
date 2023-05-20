@@ -25,7 +25,7 @@ function App() {
         <>
             {loader && <Preloader />}
             <Router><Routes>
-                <Route path="/redtree" element={<HomeTwo />} />
+                <Route path="/redtree/" element={<HomeTwo />} />
                 <Route path="/redtree/about" element={<AboutPage />} />
                 <Route path="/redtree/services" element={<ServicesPage />} />
                 <Route path="/redtree/services-details" element={<ServicesDetails />} />

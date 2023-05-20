@@ -21,13 +21,13 @@ const HeaderTwo = ({variant}) => {
             <div className="container">
                 <div className="header__area-box">
                     <div className="header__area-box-logo">
-                        <Link to='/redtree'><img src="assets/img/logo.png" alt="" /></Link>
+                        <Link to='/redtree/'><img src="assets/img/logo.png" alt="" /></Link>
                     </div>
                     <div className="header__area-box-menu">
                         <div className="header__area-box-main-menu">
                             <ul className="mobile__menu" >
                                 <li className="menu-item-has-children">
-                                    <Link to="/redtree">Home</Link>
+                                    <Link to="/redtree/">Home</Link>
                                 </li>
                                 <li className="menu-item-has-children">
                                     <Link to="/redtree/about">About Us</Link>

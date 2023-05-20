@@ -36,7 +36,7 @@ const Footer = () => {
                                     <h4 className="mb-40">Link</h4>
                                     <div className="footer__area-widget-menu">
                                         <ul>
-                                            <li><Link to="/redtree">Home</Link></li>
+                                            <li><Link to="/redtree/">Home</Link></li>
                                             <li><Link to="/redtree/services">Services</Link></li>
                                             <li><Link to="/redtree/news">News</Link></li>
                                             <li><Link to="/redtree/portfolio">Portfolio</Link></li>
